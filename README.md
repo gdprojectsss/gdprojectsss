@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm deneteu</h1>
 <h3 align="center">A passionate developer from the Balkans.</h3>
 
-- 🔭 I’m currently working on **rustygres, deliverMyRusties**
+- 🔭 I’m currently working on **goRustlyFast, Finfo**
 
-- 🌱 I’m currently learning **Rust, Tokio**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Anything really**
 
